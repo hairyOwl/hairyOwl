@@ -9,9 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go             3 hrs 31 mins   ████████████████████████▓   98.67 %
-ActionScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-go.mod         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Go   2 hrs 55 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
